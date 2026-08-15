@@ -7,15 +7,15 @@ I am a passionate Flutter Developer with hands-on experience building AI-powered
 
 ### 💼 Internship Contributions (I Tech Gemini)
 These are the production-level applications I have contributed to during my internship:
-* 📱 **ThumbGen:** [View Repository](https://github.com) — AI-powered Flutter application layout.
-* 🤖 **Persona AI:** [View Repository](https://github.com) — Advanced AI services integration.
-* 🎨 **Brandify:** [View Repository](https://github.com) — Clean, responsive pixel-perfect UI.
-* 🖋️ **Tattoo AI:** [View Repository](https://github.com) — State management and feature development.
+* 📱 **ThumbGen:** [View Repository](https://github.com/daniyaladil/thumb_gen) — AI-powered Flutter application layout.
+* 🤖 **Persona AI:** [View Repository](https://github.com/hamzaali163/persona_ai) — Advanced AI services integration.
+* 🎨 **Brandify:** [View Repository]([https://github.com](https://github.com/rohanirshad/brandify)) — Clean, responsive pixel-perfect UI.
+* 🖋️ **Tattoo AI:** [View Repository](https://github.com/rohanirshad/tattoo_ai) — State management and feature development.
 
 ### 🚀 Personal Projects
-* 🧠 **Inspire Me App:** [View Repository](https://github.com) — Firebase Auth, Cloud Firestore, and GetX state management.
-* ☀️ **Weather App:** [View Repository](https://github.com) — Real-time location-based weather tracking via REST APIs.
-* 🌐 **Portfolio Website:** [View Repository](https://github.com) — Personal showcase built with Flutter/Dart.
+* 🧠 **Inspire Me App:** [View Repository](https://github.com/arhamashraf987/Weather-app) — Firebase Auth, Cloud Firestore, and GetX state management.
+* ☀️ **Weather App:** [View Repository](https://github.com/arhamashraf987/Inspire-Me) — Real-time location-based weather tracking via REST APIs.
+* 🌐 **Portfolio Website:** [View Repository](https://github.com/arhamashraf987/Portfolio) — Personal showcase built with Flutter/Dart.
 
 ---
 
@@ -25,5 +25,5 @@ These are the production-level applications I have contributed to during my inte
 * **Version Control:** Git & GitHub
 
 ### 🔗 Connect With Me
-* 💼 **LinkedIn:** [linkedin.com/in/arham-ashraf](https://linkedin.com)
+* 💼 **LinkedIn:** [linkedin.com/in/arham-ashraf](https://linkedin.com/in/arham-ashraf)
 * 📧 **Email:** arhamashraf987@gmail.com
